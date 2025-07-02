@@ -59,9 +59,7 @@
       { "id": 16, "name": "윤서준", "email": "yoon@test.com", "createdAt": "2024-06-08" },
       { "id": 17, "name": "한미영", "email": "han@test.com", "createdAt": "2024-06-09" },
       { "id": 18, "name": "송태호", "email": "song@test.com", "createdAt": "2024-06-10" },
-      { "id": 19, "name": "최지영", "email": "choi@test.com", "createdAt": "2024-06-07" },
-      { "id": 20, "name": "최지영2", "email": "choi2@test.com", "createdAt": "2024-06-07" },
-      { "id": 21, "name": "최지영3", "email": "choi3@test.com", "createdAt": "2024-06-07" }
+      { "id": 19, "name": "최지영", "email": "choi@test.com", "createdAt": "2024-06-07" }
     ]
   }
   
