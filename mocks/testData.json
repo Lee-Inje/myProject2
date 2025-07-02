@@ -1,0 +1,65 @@
+{
+    "categories": [
+      { "key": "book", "txt": "Book" },
+      { "key": "electronics", "txt": "Electronics" },
+      { "key": "clothing", "txt": "Clothing" },
+      { "key": "sports", "txt": "Sports" }
+    ],
+    "miditems": [
+      { "pKey": "book", "key": "pen", "txt": "Pen" },
+      { "pKey": "book", "key": "notebook", "txt": "Notebook" },
+      { "pKey": "book", "key": "eraser", "txt": "Eraser" },
+  
+      { "pKey": "electronics", "key": "laptop", "txt": "Laptop" },
+      { "pKey": "electronics", "key": "phone", "txt": "Phone" },
+      { "pKey": "electronics", "key": "tablet", "txt": "Tablet" },
+  
+      { "pKey": "clothing", "key": "shirt", "txt": "Shirt" },
+      { "pKey": "clothing", "key": "pants", "txt": "Pants" },
+      { "pKey": "clothing", "key": "hat", "txt": "Hat" },
+  
+      { "pKey": "sports", "key": "soccer", "txt": "Soccer Ball" },
+      { "pKey": "sports", "key": "basketball", "txt": "Basketball" },
+      { "pKey": "sports", "key": "tennis", "txt": "Tennis Racket" }
+    ],
+    "enditems": [
+      { "pKey": "pen", "key": "blue-pen", "txt": "Blue Pen" },
+      { "pKey": "pen", "key": "red-pen", "txt": "Red Pen" },
+  
+      { "pKey": "notebook", "key": "spiral-notebook", "txt": "Spiral Notebook" },
+  
+      { "pKey": "laptop", "key": "gaming-laptop", "txt": "Gaming Laptop" },
+      { "pKey": "laptop", "key": "ultrabook", "txt": "Ultrabook" },
+  
+      { "pKey": "shirt", "key": "t-shirt", "txt": "T-shirt" },
+      { "pKey": "shirt", "key": "dress-shirt", "txt": "Dress Shirt" },
+  
+      { "pKey": "soccer", "key": "size-5-ball", "txt": "Size 5 Ball" },
+      { "pKey": "soccer", "key": "futsal-ball", "txt": "Futsal Ball" },
+  
+      { "pKey": "tennis", "key": "wilson-racket", "txt": "Wilson Racket" },
+      { "pKey": "tennis", "key": "yonex-racket", "txt": "Yonex Racket" }
+    ],
+    "users": [
+      { "id": 1, "name": "홍길동", "email": "hong@test.com", "createdAt": "2024-06-01" },
+      { "id": 2, "name": "이순신", "email": "lee@test.com", "createdAt": "2024-06-02" },
+      { "id": 3, "name": "강감찬", "email": "kang@test.com", "createdAt": "2024-06-03" },
+      { "id": 4, "name": "김철수", "email": "kim@test.com", "createdAt": "2024-06-04" },
+      { "id": 5, "name": "박영희", "email": "park@test.com", "createdAt": "2024-06-05" },
+      { "id": 6, "name": "정민수", "email": "jung@test.com", "createdAt": "2024-06-06" },
+      { "id": 7, "name": "최지영", "email": "choi@test.com", "createdAt": "2024-06-07" },
+      { "id": 8, "name": "윤서준", "email": "yoon@test.com", "createdAt": "2024-06-08" },
+      { "id": 9, "name": "한미영", "email": "han@test.com", "createdAt": "2024-06-09" },
+      { "id": 10, "name": "송태호", "email": "song@test.com", "createdAt": "2024-06-10" },
+      { "id": 11, "name": "최지영", "email": "choi@test.com", "createdAt": "2024-06-07" },
+      { "id": 12, "name": "윤서준", "email": "yoon@test.com", "createdAt": "2024-06-08" },
+      { "id": 13, "name": "한미영", "email": "han@test.com", "createdAt": "2024-06-09" }, 
+      { "id": 14, "name": "송태호", "email": "song@test.com", "createdAt": "2024-06-10" },
+      { "id": 15, "name": "최지영", "email": "choi@test.com", "createdAt": "2024-06-07" },
+      { "id": 16, "name": "윤서준", "email": "yoon@test.com", "createdAt": "2024-06-08" },
+      { "id": 17, "name": "한미영", "email": "han@test.com", "createdAt": "2024-06-09" },
+      { "id": 18, "name": "송태호", "email": "song@test.com", "createdAt": "2024-06-10" },
+      { "id": 19, "name": "최지영", "email": "choi@test.com", "createdAt": "2024-06-07" }
+    ]
+  }
+  
